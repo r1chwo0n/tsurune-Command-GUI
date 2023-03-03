@@ -5,8 +5,8 @@ using namespace std;
 int main(int argc,char *argv[])
 {
     int sum = 0;
-    double average;
-    int a,i;
+    float average,a;
+    int i;
     if(argc == 1){
         cout << "Please input numbers to find average.";
     }else{
